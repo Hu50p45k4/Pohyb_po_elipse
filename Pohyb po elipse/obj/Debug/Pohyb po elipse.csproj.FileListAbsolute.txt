@@ -1,0 +1,10 @@
+H:\8.B\Programy\Pohyb po elipse\Pohyb po elipse\bin\Debug\Pohyb po elipse.exe.config
+H:\8.B\Programy\Pohyb po elipse\Pohyb po elipse\bin\Debug\Pohyb po elipse.exe
+H:\8.B\Programy\Pohyb po elipse\Pohyb po elipse\bin\Debug\Pohyb po elipse.pdb
+H:\8.B\Programy\Pohyb po elipse\Pohyb po elipse\obj\Debug\Pohyb po elipse.csprojAssemblyReference.cache
+H:\8.B\Programy\Pohyb po elipse\Pohyb po elipse\obj\Debug\Pohyb_po_elipse.Form1.resources
+H:\8.B\Programy\Pohyb po elipse\Pohyb po elipse\obj\Debug\Pohyb_po_elipse.Properties.Resources.resources
+H:\8.B\Programy\Pohyb po elipse\Pohyb po elipse\obj\Debug\Pohyb po elipse.csproj.GenerateResource.cache
+H:\8.B\Programy\Pohyb po elipse\Pohyb po elipse\obj\Debug\Pohyb po elipse.csproj.CoreCompileInputs.cache
+H:\8.B\Programy\Pohyb po elipse\Pohyb po elipse\obj\Debug\Pohyb po elipse.exe
+H:\8.B\Programy\Pohyb po elipse\Pohyb po elipse\obj\Debug\Pohyb po elipse.pdb
